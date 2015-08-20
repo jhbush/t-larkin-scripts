@@ -57,3 +57,6 @@ Give your packages meaningful names and version numbers.  VPN.pkg is NOT helpfu
 	•	Do give packages meaningful names with version numbers.
 
 So there you have it, an extensive (yet most likely INCOMPLETE) list of some of the biggest gripes from Sysadmins who have to maintain more than one Mac in their organization.  Please forgive the little errors (such as post-install instead of postinstall, if you prefer) and feel free to comment to your heart's content.  Hopefully those who package applications will read this and change their ways.  Until then, I'll be with everyone else who needs to repackage some Crappy App whose package installer just won't work...
+
+Gary Larizza
+https://github.com/glarizza
